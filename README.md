@@ -2,4 +2,6 @@ Welcome to a random mod that makes your desktop go funky not like a virus more l
 
 When installing make sure to run with admin or else wont work
 
+To uninstall just go to control panel to uninstall.
+
 peace.
