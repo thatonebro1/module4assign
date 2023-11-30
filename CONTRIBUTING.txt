@@ -1,1 +1,3 @@
 AH yes the CONTRIBUTING file
+
+My name is Mya Holocher from CS305. Meow meow.
